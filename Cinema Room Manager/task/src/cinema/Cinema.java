@@ -15,8 +15,9 @@ public class Cinema {
     public static Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
-        // Write your code here
-
+        /*
+         * stage 5
+         */
         System.out.println("Enter the number of rows:");
         rows = scanner.nextInt();
         System.out.println("Enter the number of seats in each row:");
