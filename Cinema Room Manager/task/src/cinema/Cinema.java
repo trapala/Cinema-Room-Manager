@@ -113,7 +113,6 @@ public class Cinema {
     }
 
     public static void arrangementCreate(String[][] array) {
-
         for (int i = 0; i < rows + 1; i++) {
             for (int j = 0; j < seats + 1; j++) {
                 array[0][0] = " ";
