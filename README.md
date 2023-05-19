@@ -88,5 +88,8 @@ Total income: $300
 Exiting the program. Goodbye!
 ```
 
+## Contributing
+If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-### For more details, visit https://hyperskill.org/projects/133
+## License
+This project is licensed under The MIT License. Feel free to use, modify, and distribute the code as needed.
